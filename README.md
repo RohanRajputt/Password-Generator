@@ -18,11 +18,11 @@ The password strength checker evaluates generated passwords based on the followi
 
 **The strength levels are categorized as follows:**
 
-Very Weak
-Weak
-Moderate
-Strong
-Very Strong
+Very Weak,
+Weak,
+Moderate,
+Strong,
+Very Strong,
 
 Feedback is provided to guide users in creating stronger passwords.
 
